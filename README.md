@@ -18,5 +18,7 @@ python test.py
 
 # If our code is useful, please cite this paper.
 pdf: https://www.bmvc2021-virtualconference.com/assets/papers/0549.pdf
+
 BMVC Virtual conference link: https://www.bmvc2021-virtualconference.com/conference/papers/paper_0549.html
+
 Paper: Choe, Hyeokjun, et al., "Variance-stationary Differentiable NAS.", the 32nd British Machine Vision Conference, 2021.
